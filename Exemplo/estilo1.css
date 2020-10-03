@@ -1,0 +1,11 @@
+div {
+	margin-top: 8px;
+	margin-bottom: 15px;
+	margin-left: 20px;
+	text-align: justify;
+	border: 2px solid #a1231a;
+	padding-left: 6px;
+	padding-top: 4px;
+	padding-bottom: 12px;
+	width: 640px;
+}
