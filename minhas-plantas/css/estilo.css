@@ -1,0 +1,59 @@
+body {
+	font-size: 22px;
+	text-shadow: 1px 1px 2px white;
+	background: #7f965d url('../images/rosa-branca-w800.jpg') no-repeat center center;
+	/*background-image: url('../images/rosa-branca-w800.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #7f965d;*/
+	background-image: url('../images/rosa-branca.jpg');
+	background-attachment: fixed;
+	background-position: 0px -200px;
+}
+
+h1 {
+	background-color: rgba(255,255,255,0.5);
+	text-align: center;
+}
+
+div {
+	border: 1px solid #CCC;
+	margin-top: 14px;
+	margin-bottom: 12px;
+}
+
+h2 {
+	text-shadow: 2px 2px 3px white;
+}
+
+#um {
+	background-color: rgba(255,255,255,0.5);
+	box-shadow: -3px -3px 5px #006600,
+				 3px  3px 5px yellow;
+}
+
+.gradiente { 
+	background: linear-gradient( 	20deg,
+									rgba(0,0,255,0.5),
+									rgba(154, 212, 70, 0.5),
+									rgba(255,255,255,0.5)
+								);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
